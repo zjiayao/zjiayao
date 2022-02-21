@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👩🏼‍🚒 I'm a third-year Ph.D. student at the [University of Pennsylvania](https://www.upenn.edu) advised by [Dan Roth](https://www.cis.upenn.edu/~danroth/) and [Weijie J. Su](http://stat.wharton.upenn.edu/~suw/).
+- 👯 I'm affiliated with the [Cognitive Computation Group](https://cogcomp.seas.upenn.edu) and the [Statistics Department](https://statistics.wharton.upenn.edu).
+- 🔭 My research has two themes: understanding deep neural nets and causality (commonsense causality and potential-outcomes frameworks) in natural languages.
+- 💬 [[Homepage](https://www.jiayao-zhang.com)] [[Twitter](https://twitter.com/jiayao_zhang)] [[Email](jiayaozhang@{acm,ieee}.org)]
 <!--
 **zjiayao/zjiayao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
